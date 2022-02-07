@@ -1,9 +1,10 @@
-onepigen is a single charged pion event generator which supports cross
-sections generated via AO, daresbury, or MAID tables, in addition to
-supporting Fermi motion in the target as well as generation of a
-spectator particle.  In addition, it might be modified in the future
-to support arbitrary cross sections via shaping an interpolated model
-of a sampled cross section.
+onepigen07 is a MAID2007 version of onepigen.  onepigen is a single
+charged pion event generator which supports cross sections generated
+via AO, daresbury, or MAID tables, in addition to supporting Fermi
+motion in the target as well as generation of a spectator particle.
+In addition, it might be modified in the future to support arbitrary
+cross sections via shaping an interpolated model of a sampled cross
+section.
 
 The model used for Fermi motion supports many settings.  First, the
 energy component can be determined in a variety of ways, even though
